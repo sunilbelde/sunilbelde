@@ -1,7 +1,7 @@
 # Hi i'm, Sunil Belde
 
 - 💡 : Experienced in Web Application Developement.
-- 🔭 : Currently seeking for an job opportunity in Data Science roles.
+- 🔭 : Currently seeking for a job opportunity in Data Science roles.
 -  😍 : Passionate about Machine Learning and Data Science.
 
 Find me here : 
@@ -13,3 +13,4 @@ Medium : [sunilbelde@medium](https://sunil-belde102.medium.com)
 Mail : sunil.belde102@gmail.com
 
 🌐 : [protfolio](https://sunilbelde.github.io/)
+
