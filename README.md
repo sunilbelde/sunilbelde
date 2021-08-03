@@ -1,7 +1,7 @@
 # Hi i'm, Sunil Belde
 
-- 💡 : Experienced in Web Application Developement.
-- 🔭 : Currently seeking for a job opportunity in Data Science roles.
+- 💡 : Experienced in Web Application Developement,Machine Learning and Deep Learning.
+- 🔭 : Currently working as Machine Learning Engineer.
 -  😍 : Passionate about Machine Learning and Data Science.
 
 Find me here : 
