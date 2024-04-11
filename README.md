@@ -1,7 +1,7 @@
 # Hi i'm, Sunil Belde
 
 - 💡 : Experienced in Web Application Developement,Machine Learning and Deep Learning.
-- 🔭 : Currently working as Machine Learning Engineer.
+- 🔭 : Currently pursuing masters in Computer Science at UIC, Chicago.
 -  😍 : Passionate about Machine Learning and Data Science.
 
 Find me here : 
