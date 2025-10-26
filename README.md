@@ -1,7 +1,7 @@
 # Hi i'm, Sunil Belde
 
-- 💡 : Experienced in Web Application Developement,Machine Learning and Deep Learning.
-- 🔭 : Currently pursuing masters in Computer Science at UIC, Chicago.
+- 💡 : Experienced in Generative AI and Machine Learning
+- 🔭 : Currently working as GenAI & ETL Automation Engineer at Capital One
 -  😍 : Passionate about Machine Learning and Data Science.
 
 Find me here : 
